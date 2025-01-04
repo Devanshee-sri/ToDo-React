@@ -3,6 +3,9 @@ Description:- Just a simple yet useful todo app to track your daily ToDo's, with
 Usage :-
 
 git clone https://github.com/Devanshee-Sri
+
 cd .\Todo-App-React\
+
 npm install
+
 npm run dev
